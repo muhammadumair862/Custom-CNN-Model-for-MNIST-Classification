@@ -28,7 +28,7 @@ git clone https://github.com/muhammadumair862/Custom-CNN-Model-for-MNIST-Classif
 2. Navigate to the project directory:
 
 ```bash
-cd custom-cnn-mnist
+cd Custom-CNN-Model-for-MNIST-Classification
 ```
 
 3. Open and run the `cnn_model.py` script to train the custom CNN model on the MNIST dataset.
